@@ -417,4 +417,4 @@ int mod_main(flux_t *h, int argc, char **argv) {
   return 0;
 }
 
-// MOD_NAME(MY_MOD_NAME);
+MOD_NAME(MY_MOD_NAME);
