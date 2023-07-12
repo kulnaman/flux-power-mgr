@@ -3,6 +3,8 @@
 **/*.la
 **/*.o
 **/*.lo
+**/*.uri
+**/*.csv
 /ar-lib
 /mdate-sh
 /py-compile
